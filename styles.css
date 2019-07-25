@@ -1,0 +1,14 @@
+
+hr{
+  border-width:5px;
+  border-height:10px;
+  border-style:dotted none none;
+  width:30%;
+  color:yellow;
+}
+h1{
+  color:blue;
+}
+h2{
+  color:green;
+}
